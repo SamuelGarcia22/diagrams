@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.6">
   <diagram name="Page-1" id="BrnOyh9XNPyVEBQKQnbW">
-    <mxGraphModel>
+    <mxGraphModel dx="723" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AQ5vdkK7NMLJOoIOfehY-1" value="SQS_VERIFY_QUERY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ5vdkK7NMLJOoIOfehY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="AQ5vdkK7NMLJOoIOfehY-3" target="AQ5vdkK7NMLJOoIOfehY-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483" y="118" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="419" y="220" />
+              <mxPoint x="420" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ5vdkK7NMLJOoIOfehY-3" value="queries" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#058C3D);strokeColor=light-dark(#000000,#0C590A);" vertex="1" parent="1">
+          <mxGeometry x="335" y="181" width="168" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ5vdkK7NMLJOoIOfehY-4" value="None" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#283A7A);strokeColor=light-dark(#FFFFFF,#4361CC);" vertex="1" parent="1">
+          <mxGeometry x="335" y="240" width="168" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ5vdkK7NMLJOoIOfehY-2" value="PARALLEL_VERIFY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ5vdkK7NMLJOoIOfehY-7" value="Función dentro de &quot;query_verifier&quot; (QueryVerifierWS)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontColor=light-dark(#000000,#A8A8A8);" vertex="1" parent="1">
+          <mxGeometry x="307" y="68" width="224" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ5vdkK7NMLJOoIOfehY-9" value="SQS_SEND_QUERY_METADATA_LISTENER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="399" width="277" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ5vdkK7NMLJOoIOfehY-10" value="SQS_DOWNLOAD_QUERY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="527" width="277" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
