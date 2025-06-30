@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.2.0">
   <diagram name="Page-1" id="I5MCaSXjaXYVF67nnNgN">
-    <mxGraphModel>
+    <mxGraphModel dx="1047" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpLxBPLL0TURWIFqKiSM-1" target="tpLxBPLL0TURWIFqKiSM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-1" value="CFDIExporter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpLxBPLL0TURWIFqKiSM-2" target="tpLxBPLL0TURWIFqKiSM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-2" value="export_xlsx" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpLxBPLL0TURWIFqKiSM-4" target="tpLxBPLL0TURWIFqKiSM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-4" value="XLSXExporter" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-7" value="functions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-8" value="classes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="190" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpLxBPLL0TURWIFqKiSM-10" target="tpLxBPLL0TURWIFqKiSM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-10" value="export" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-12" value="_data_to_worksheet" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=light-dark(#000000,#8A8A8A);strokeColor=light-dark(#000000,#8A8A8A);" edge="1" parent="1" source="tpLxBPLL0TURWIFqKiSM-12" target="tpLxBPLL0TURWIFqKiSM-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="430" as="sourcePoint" />
+            <mxPoint x="-210" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpLxBPLL0TURWIFqKiSM-15" value="Acá es donde se encuentra el bug" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=light-dark(#000000,#8A8A8A);" vertex="1" parent="1">
+          <mxGeometry x="-330" y="465" width="130" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
