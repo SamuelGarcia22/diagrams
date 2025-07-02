@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.2.0">
   <diagram name="Page-1" id="I5MCaSXjaXYVF67nnNgN">
-    <mxGraphModel dx="1533" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tpLxBPLL0TURWIFqKiSM-19" value="for cfdi in cfdis" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="440" width="380" height="270" as="geometry">
+          <mxGeometry x="-490" y="440" width="380" height="270" as="geometry">
             <mxRectangle x="220" y="330" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UE_2idGkW_ImVIkfKjqi-4" value="for docto in record.pays" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="790" width="840" height="790" as="geometry">
+          <mxGeometry x="-480" y="790" width="840" height="690" as="geometry">
             <mxRectangle x="220" y="330" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
