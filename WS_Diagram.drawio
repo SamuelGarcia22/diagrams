@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.2.0" pages="2">
   <diagram id="0" name="Page-1">
-    <mxGraphModel dx="2313" dy="1825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2936" dy="1805" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,7 +301,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v1lEg4RcXo5JvEhgY80r-71" value="Para evitar dejar el estatus con un valor &quot;incorrecto&quot; al recibir múltiples peticiones se valida con la fecha en la que fue enviado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#BABABA;" parent="1" vertex="1">
+        <mxCell id="v1lEg4RcXo5JvEhgY80r-71" value="Para evitar dejar el estatus con un valor &quot;incorrecto&quot; al recibir múltiples peticiones se valida con la fecha en la que fue enviado y la fecha guardada en la BD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#BABABA;" parent="1" vertex="1">
           <mxGeometry x="98" y="317" width="261" height="98" as="geometry" />
         </mxCell>
         <mxCell id="v1lEg4RcXo5JvEhgY80r-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="v1lEg4RcXo5JvEhgY80r-71" target="v1lEg4RcXo5JvEhgY80r-71" edge="1">
