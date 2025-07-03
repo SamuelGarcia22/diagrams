@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.2.0" pages="2">
   <diagram id="0" name="Page-1">
-    <mxGraphModel dx="2936" dy="1805" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2616" dy="1654" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,10 +223,10 @@
           <mxGeometry x="-557" y="-313" width="102" height="28" as="geometry" />
         </mxCell>
         <mxCell id="v1lEg4RcXo5JvEhgY80r-54" value="&lt;span style=&quot;color: rgb(186, 186, 186); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;CRON SYNC_METADATA&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-777" y="-332.5" width="161" height="28" as="geometry" />
+          <mxGeometry x="-777" y="-371" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="v1lEg4RcXo5JvEhgY80r-55" value="&lt;span style=&quot;color: rgb(186, 186, 186); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;FIRST_COMPANY_CREATE&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-777" y="-293.5" width="161" height="28" as="geometry" />
+          <mxGeometry x="-777" y="-250" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="v1lEg4RcXo5JvEhgY80r-57" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#bababa&quot;&gt;ISSUED | DATES&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-434" y="-328" width="102" height="28" as="geometry" />
@@ -302,7 +302,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v1lEg4RcXo5JvEhgY80r-71" value="Para evitar dejar el estatus con un valor &quot;incorrecto&quot; al recibir múltiples peticiones se valida con la fecha en la que fue enviado y la fecha guardada en la BD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#BABABA;" parent="1" vertex="1">
-          <mxGeometry x="98" y="317" width="261" height="98" as="geometry" />
+          <mxGeometry x="91" y="282" width="261" height="98" as="geometry" />
         </mxCell>
         <mxCell id="v1lEg4RcXo5JvEhgY80r-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="v1lEg4RcXo5JvEhgY80r-71" target="v1lEg4RcXo5JvEhgY80r-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
