@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.2.0">
   <diagram name="Page-1" id="p3Beu2Y2esMk882Nnt0K">
-    <mxGraphModel dx="3113" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3305" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WFcFsrm8zlBY0hBr82oQ-33" value="&lt;div&gt;Maybe we need to delete this.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Doubts: Este ticket se hará con lo nuevo de multidb. Pero además tendríamos que hacer el cambio con lo de los test, porque se cambiará el modo de crear registros en base de datos local (creado por Luis y Oscar)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#8A8A8A);" vertex="1" parent="1">
-          <mxGeometry x="-880" y="730" width="200" height="240" as="geometry" />
+          <mxGeometry x="-890" y="780" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WFcFsrm8zlBY0hBr82oQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WFcFsrm8zlBY0hBr82oQ-34" target="WFcFsrm8zlBY0hBr82oQ-36">
           <mxGeometry relative="1" as="geometry" />
